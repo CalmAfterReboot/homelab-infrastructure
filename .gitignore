@@ -1,0 +1,10 @@
+*.xml
+*.key
+*.pem
+*.pfx
+secrets/
+.env
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
